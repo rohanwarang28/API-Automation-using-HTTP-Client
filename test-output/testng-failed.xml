@@ -6,7 +6,7 @@
       <class name="com.qa.tests.ApiTests">
         <methods>
           <include name="setup"/>
-          <include name="apiTest"/>
+          <include name="getResponseWithHeaders"/>
         </methods>
       </class> <!-- com.qa.tests.ApiTests -->
     </classes>
